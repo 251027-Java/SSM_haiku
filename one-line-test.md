@@ -1,2 +1,2 @@
-Hello world again!
-I am adding this line of text
+Hello world again!=
+intentional conflict - SG
