@@ -1,2 +1,2 @@
 Hello world again!
-intentional conflict
+intentional conflict - SG
