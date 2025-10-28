@@ -1,2 +1,2 @@
 Hello world again!
-change this line
+intentional conflict
