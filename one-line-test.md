@@ -1,2 +1,2 @@
 Hello world again!
-edit this line again
+intentional conflict - SG
